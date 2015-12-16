@@ -1,2 +1,8 @@
 # VITilecutter
-图片切割工具，用于大图分片显示
+
+node index.js file tileWidth tileHeight
+
+GraphicsMagick or ImageMagick
+
+sudo npm install gm
+
