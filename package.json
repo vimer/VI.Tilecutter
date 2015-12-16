@@ -1,0 +1,7 @@
+{
+  "name": "BASE",
+  "private": true,
+  "dependencies": {
+    "gm": "^1.21.1"
+  }
+}
